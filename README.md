@@ -44,10 +44,15 @@ Instead of giving generic answers, the system responds **only from the content o
 - **AI Model:** Google Gemini
 - **Vector Database:** FAISS
 - **Embeddings:** Sentence Transformers
-- **PDF Processing:** PyPDF / similar librarie
+- **PDF Processing:** PyPDF / similar libraries
+  
+## Screenshots
+Screenshot (253).png
+Screenshot (251).png
 
 
 ---
+
 
 ## ⚙️ Setup & Run Locally
 
@@ -78,6 +83,8 @@ Once the server is running, open for api testing:
 http://127.0.0.1:8000/docs
 
 ---
-## Screenshots
+
+
+
 
 
