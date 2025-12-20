@@ -47,8 +47,9 @@ Instead of giving generic answers, the system responds **only from the content o
 - **PDF Processing:** PyPDF / similar libraries
   
 ## Screenshots
-Screenshot (253).png
-Screenshot (251).png
+![Alt text for the image](Screenshot%20(250).png)
+![Alt text](Screenshot%20(251).png)
+
 
 
 ---
